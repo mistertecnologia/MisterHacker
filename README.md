@@ -25,4 +25,4 @@ Com o aumento dos crimes cibernéticos, o hacking ético tornou-se uma estratég
 # 0 Day | Dia Zero
 Cada segundo importa! Esses especialistas em segurança cibernética são profissionais aptos no enfrentamento de falhas de segurança, por isso, conseguem encontrar os pontos fracos, antes que outros indivíduos com a intenção de prejudicar encontre.
 
-misterhacker.com.br
+https://misterhacker.com.br
